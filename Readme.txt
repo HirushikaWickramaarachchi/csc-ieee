@@ -1,1 +1,1 @@
-A static web page created for an event called CSC organized by University of Colombo IEEE branch using  JavaScript, PHP, HTML, CSS. 
+Welcome to the CSC Event Web Page! This static webpage, developed with JavaScript, PHP, HTML, and CSS, serves as an online hub for the University of Colombo IEEE branch's CSC event. Discover event details, updates, and more.
